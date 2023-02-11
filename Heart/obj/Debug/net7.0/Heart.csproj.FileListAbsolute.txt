@@ -1,0 +1,15 @@
+D:\Others\source\Heart\Heart\bin\Debug\net7.0\Heart.exe
+D:\Others\source\Heart\Heart\bin\Debug\net7.0\Heart.deps.json
+D:\Others\source\Heart\Heart\bin\Debug\net7.0\Heart.runtimeconfig.json
+D:\Others\source\Heart\Heart\bin\Debug\net7.0\Heart.dll
+D:\Others\source\Heart\Heart\bin\Debug\net7.0\Heart.pdb
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.csproj.AssemblyReference.cache
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.AssemblyInfoInputs.cache
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.AssemblyInfo.cs
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.csproj.CoreCompileInputs.cache
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.dll
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\refint\Heart.dll
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.pdb
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\Heart.genruntimeconfig.cache
+D:\Others\source\Heart\Heart\obj\Debug\net7.0\ref\Heart.dll
